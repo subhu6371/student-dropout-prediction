@@ -2,7 +2,7 @@
 
 An interactive web application built with Streamlit and Scikit-learn to predict the risk of student dropout. This tool helps educational institutions identify at-risk students proactively, allowing for timely interventions.
 
-![App Screenshot]("C:\Users\subha\OneDrive\Desktop\advanced_dropout_project\app-screenshot.png.png")
+![Student Dropout Prediction App UI](https://github.com/subhu6371/student-dropout-prediction/blob/main/app-screenshot.png.png?raw=true)
 *Replace the link above with a screenshot of your app. You can upload the screenshot to your GitHub repo and link to it.*
 
 ---
